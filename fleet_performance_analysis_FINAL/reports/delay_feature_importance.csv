@@ -1,9 +1,0 @@
-Feature,Importance
-planned_duration_hours,0.2179434257992744
-cargo_weight_tons,0.18543655928943562
-route_risk_score,0.15243841493232932
-border_crossing_flag,0.10876671867553693
-age,0.10227719216214426
-distance_km,0.0997507291989974
-road_condition_score,0.08490167079617054
-weather_risk_score,0.04848528914611151
