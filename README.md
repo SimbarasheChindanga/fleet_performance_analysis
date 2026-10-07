@@ -332,9 +332,10 @@ fleet_performance_analytics/
 │   └── profitability_model_results.csv
 │
 ├── screenshots/
-│   ├── fleet_performance.png
-│   ├── fuel_consumption.png
-│   └── maintenance_analysis.png
+│   ├── Executive Summary.png
+│   ├── Fleet Performance Analysis.png
+│   ├── Fuel Consumption Analysis.png
+│   └── Maintenance Analysis.png
 │
 └── powerbi/
     └── Fleet_Performance_Dashboard.pbix
@@ -370,14 +371,18 @@ fleet_performance_analytics/
                                          workflow and analytical outputs.
   --------------------------------------------------------------------------
 
-The repository intentionally presents **one clean seven-notebook
-workflow** rather than exposing historical V1/V2 development copies.
+The repository presents **one clean seven-notebook workflow** from
+data generation through dashboard delivery.
 
 ------------------------------------------------------------------------
 
 # 🗄️ SQL Analytics
 
-The project contains **21 business SQL queries** covering:
+The project contains **21 business SQL queries** covering fleet,
+truck, driver, route-level, and time-based analysis.
+
+> **Note:** Route-level and time-based analysis are part of the SQL
+> analytical layer. They are **not separate Power BI dashboard pages**.
 
 ### Fleet Overview
 
@@ -403,13 +408,13 @@ The project contains **21 business SQL queries** covering:
 -   Driver delay rate.
 -   Driver profitability.
 
-### Route Analysis
+### Route-Level SQL Analysis
 
 -   Route revenue.
 -   Route profitability.
 -   Loss-making routes.
 
-### Time-Based Analysis
+### Time-Based SQL Analysis
 
 -   Monthly revenue.
 -   Top revenue months.
