@@ -551,56 +551,40 @@ filters, and analytical pages in real time.
 
 # 📸 Dashboard Screenshots
 
-The screenshots below provide a quick visual preview of the dashboard
-directly from GitHub. **Click any image to open the full-size
-screenshot.**
+The screenshots below are the dashboard screenshots captured from the completed Power BI project. The filenames in this section match the files currently stored in the `screenshots/` folder.
+
+## Executive Summary
+
+[![Executive Summary](screenshots/Executive%20Summary.png)](screenshots/Executive%20Summary.png)
+
+The Executive Summary provides the high-level fleet KPIs and management overview.
+
+**[Open full-size Executive Summary screenshot](screenshots/Executive%20Summary.png)**
 
 ## Fleet Performance Analysis
 
-[![Fleet Performance
-Analysis](screenshots/fleet_performance.png)](screenshots/fleet_performance.png)
+[![Fleet Performance Analysis](screenshots/Fleet%20Performance%20Analysis.png)](screenshots/Fleet%20Performance%20Analysis.png)
 
-The fleet-performance view focuses on truck profitability, distance
-travelled, fuel consumption, operating cost, maintenance cost, and
-downtime.
+The fleet-performance view focuses on truck profitability, distance travelled, fuel consumption, operating cost, maintenance cost, and downtime.
 
-**[Open full-size Fleet Performance
-screenshot](screenshots/fleet_performance.png)**
-
-------------------------------------------------------------------------
+**[Open full-size Fleet Performance screenshot](screenshots/Fleet%20Performance%20Analysis.png)**
 
 ## Fuel Consumption Analysis
 
-[![Fuel Consumption
-Analysis](screenshots/fuel_consumption.png)](screenshots/fuel_consumption.png)
+[![Fuel Consumption Analysis](screenshots/Fuel%20Consumption%20Analysis.png)](screenshots/Fuel%20Consumption%20Analysis.png)
 
-The fuel view covers total fuel consumption, fuel purchase expenditure,
-fleet fuel efficiency, fuel purchase cost per kilometre, and truck-level
-comparisons.
+The fuel view covers total fuel consumption, fuel purchase expenditure, fleet fuel efficiency, fuel purchase cost per kilometre, and truck-level comparisons.
 
-**[Open full-size Fuel Consumption
-screenshot](screenshots/fuel_consumption.png)**
-
-------------------------------------------------------------------------
+**[Open full-size Fuel Consumption screenshot](screenshots/Fuel%20Consumption%20Analysis.png)**
 
 ## Maintenance Analysis
 
-[![Maintenance
-Analysis](screenshots/maintenance_analysis.png)](screenshots/maintenance_analysis.png)
+[![Maintenance Analysis](screenshots/Maintenance%20Analysis.png)](screenshots/Maintenance%20Analysis.png)
 
-The maintenance view covers maintenance expenditure, maintenance-event
-volume, downtime, truck-level maintenance patterns, and maintenance
-categories.
+The maintenance view covers maintenance expenditure, maintenance-event volume, downtime, truck-level maintenance patterns, and maintenance categories.
 
-**[Open full-size Maintenance
-screenshot](screenshots/maintenance_analysis.png)**
+**[Open full-size Maintenance screenshot](screenshots/Maintenance%20Analysis.png)**
 
-> **Executive Summary:** The interactive PBIX contains the complete
-> Executive Summary page. I have intentionally not inserted an outdated
-> Executive Summary image from an earlier dashboard version, so the
-> README does not display obsolete six-page dashboard content.
-
-------------------------------------------------------------------------
 
 # 📌 Current Dashboard KPIs
 
