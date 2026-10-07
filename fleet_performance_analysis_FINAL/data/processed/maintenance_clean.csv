@@ -1,0 +1,351 @@
+maintenance_id,truck_id,maintenance_date,category,severity,cost,downtime_days,mileage_at_maintenance,breakdown_event,description,maintenance_year,maintenance_month,maintenance_month_name
+MAINT0001,TRK024,2026-02-13,Cooling System,0.86,452.53,1,221274,0,Cooling System - Check civil quite.,2026,2,February
+MAINT0002,TRK015,2026-06-09,Engine Service,0.98,1672.92,4,543120,1,Engine Service - As high you more wife team.,2026,6,June
+MAINT0003,TRK002,2025-11-15,Tire Replacement,1.07,587.19,1,754542,1,Tire Replacement - Quite boy those.,2025,11,November
+MAINT0004,TRK026,2026-02-23,Oil Change,1.2,291.84,1,827686,1,Oil Change - Shoulder future fall citizen.,2026,2,February
+MAINT0005,TRK026,2026-07-21,Tire Replacement,0.92,531.54,1,845190,1,Tire Replacement - West then enjoy.,2026,7,July
+MAINT0006,TRK004,2026-06-29,Brake Replacement,0.83,604.04,3,463411,0,Brake Replacement - Seven medical blood personal success medical.,2026,6,June
+MAINT0007,TRK008,2026-04-06,Engine Service,1.28,2477.62,2,782798,1,Engine Service - Check several much single.,2026,4,April
+MAINT0008,TRK027,2026-09-12,Oil Change,0.76,113.8,1,263732,0,Oil Change - Truth out major born guy world.,2026,9,September
+MAINT0009,TRK006,2026-07-09,Suspension Repair,0.87,1437.74,4,667660,1,Suspension Repair - Dream drive note bad.,2026,7,July
+MAINT0010,TRK026,2026-09-12,Brake Replacement,0.97,888.46,1,861408,1,Brake Replacement - Staff within mouth call process water.,2026,9,September
+MAINT0011,TRK026,2026-09-21,Oil Change,1.11,253.76,1,832408,1,Oil Change - Enter their institution deep.,2026,9,September
+MAINT0012,TRK012,2025-11-19,Oil Change,1.0,159.84,1,227904,0,Oil Change - Sense ready require human public health.,2025,11,November
+MAINT0013,TRK009,2026-03-07,Oil Change,1.0,242.77,1,731410,1,Oil Change - Later easy ask again network open.,2026,3,March
+MAINT0014,TRK013,2025-12-21,Tire Replacement,1.03,492.83,1,502165,1,Tire Replacement - Audience piece director.,2025,12,December
+MAINT0015,TRK013,2025-10-27,Oil Change,1.17,239.98,1,516681,1,Oil Change - Teacher audience draw.,2025,10,October
+MAINT0016,TRK023,2026-03-08,Oil Change,1.16,192.12,1,423501,1,Oil Change - Democrat car very number line six.,2026,3,March
+MAINT0017,TRK028,2025-11-07,Brake Replacement,1.21,1066.04,1,538803,1,Brake Replacement - Couple best issue interest level.,2025,11,November
+MAINT0018,TRK031,2026-07-16,Full Service,0.88,1335.19,1,941260,1,Full Service - Pull worker better.,2026,7,July
+MAINT0019,TRK001,2025-12-06,Electrical Repair,1.21,1390.94,3,1062682,1,Electrical Repair - Rock song body court movie.,2025,12,December
+MAINT0020,TRK027,2026-06-21,Tire Replacement,0.65,246.72,1,268756,0,Tire Replacement - Instead everything economic.,2026,6,June
+MAINT0021,TRK011,2025-12-31,Brake Replacement,1.11,1236.79,3,986934,1,Brake Replacement - Kitchen technology nearly.,2025,12,December
+MAINT0022,TRK031,2026-02-22,Oil Change,0.92,233.32,1,921283,1,Oil Change - Present music address.,2026,2,February
+MAINT0023,TRK002,2026-05-02,Electrical Repair,0.74,717.57,3,747436,1,Electrical Repair - Unit support coach.,2026,5,May
+MAINT0024,TRK020,2025-11-06,Oil Change,0.91,183.79,1,600841,1,Oil Change - Loss ten total clearly able hospital.,2025,11,November
+MAINT0025,TRK020,2025-11-26,Clutch Replacement,0.99,2044.45,3,613063,1,Clutch Replacement - Expect recent room situation product.,2025,11,November
+MAINT0026,TRK011,2026-03-30,Full Service,1.07,1407.28,1,994135,1,Full Service - Choice father why often my security.,2026,3,March
+MAINT0027,TRK035,2025-09-22,Electrical Repair,0.65,574.42,3,670097,1,Electrical Repair - Anyone live try.,2025,9,September
+MAINT0028,TRK004,2025-11-17,Clutch Replacement,1.33,2640.78,3,465366,0,Clutch Replacement - Church whether bag control organization push.,2025,11,November
+MAINT0029,TRK005,2026-01-20,Tire Replacement,0.83,382.22,1,440971,0,Tire Replacement - Identify walk now often.,2026,1,January
+MAINT0030,TRK025,2026-08-08,Tire Replacement,0.83,558.62,1,841448,1,Tire Replacement - People information on.,2026,8,August
+MAINT0031,TRK019,2026-04-17,Tire Replacement,0.94,435.87,1,391353,1,Tire Replacement - First end prove fire enter capital.,2026,4,April
+MAINT0032,TRK009,2026-08-27,Brake Replacement,0.98,861.22,1,721270,1,Brake Replacement - Lead upon very act.,2026,8,August
+MAINT0033,TRK011,2025-12-27,Oil Change,0.87,225.79,1,993871,1,Oil Change - Your you available defense enter value.,2025,12,December
+MAINT0034,TRK006,2026-04-23,Brake Replacement,0.94,804.81,1,692738,1,Brake Replacement - These hard citizen.,2026,4,April
+MAINT0035,TRK031,2025-11-29,Engine Service,0.65,1428.64,4,925860,1,Engine Service - Region particularly would pressure account stage.,2025,11,November
+MAINT0036,TRK021,2025-09-30,Brake Replacement,1.2,1099.13,3,655066,1,Brake Replacement - Use billion there enough.,2025,9,September
+MAINT0037,TRK009,2026-08-24,Tire Replacement,0.75,401.98,1,723995,1,Tire Replacement - Score choice example.,2026,8,August
+MAINT0038,TRK014,2025-11-04,Brake Replacement,0.85,630.8,3,468496,1,Brake Replacement - Response data plant enough.,2025,11,November
+MAINT0039,TRK033,2026-05-13,Clutch Replacement,1.19,2960.37,6,742693,1,Clutch Replacement - Economy traditional anything plant stop analysis.,2026,5,May
+MAINT0040,TRK032,2026-07-28,Full Service,0.74,987.76,1,718492,1,Full Service - Side PM energy scientist necessary.,2026,7,July
+MAINT0041,TRK002,2026-05-12,Oil Change,1.03,256.41,1,737893,1,Oil Change - Night born war real chance.,2026,5,May
+MAINT0042,TRK025,2026-04-06,Tire Replacement,0.95,604.39,1,828676,1,Tire Replacement - Strong old challenge.,2026,4,April
+MAINT0043,TRK006,2026-04-27,Oil Change,1.08,229.87,1,675412,0,Oil Change - Among half value.,2026,4,April
+MAINT0044,TRK008,2026-01-21,Electrical Repair,1.18,1239.57,3,794323,1,Electrical Repair - Together decide economic.,2026,1,January
+MAINT0045,TRK031,2026-04-20,Full Service,1.07,1546.0,3,923375,1,Full Service - Government nice themselves.,2026,4,April
+MAINT0046,TRK032,2025-10-09,Full Service,1.22,1441.85,3,727594,1,Full Service - See understand door class son computer.,2025,10,October
+MAINT0047,TRK003,2026-09-17,Tire Replacement,0.96,391.7,1,362086,0,Tire Replacement - Agent say forward us soon.,2026,9,September
+MAINT0048,TRK032,2026-09-10,Engine Service,0.86,1812.22,4,721740,0,Engine Service - Environment skin blue the.,2026,9,September
+MAINT0049,TRK027,2026-06-18,Full Service,0.97,823.1,3,261282,0,Full Service - Develop staff least figure somebody dinner.,2026,6,June
+MAINT0050,TRK029,2026-05-18,Oil Change,0.83,181.94,1,663412,1,Oil Change - Process huge everything.,2026,5,May
+MAINT0051,TRK029,2026-01-25,Oil Change,0.97,230.92,1,648031,1,Oil Change - Whom evidence political.,2026,1,January
+MAINT0052,TRK019,2026-09-07,Oil Change,0.77,131.05,1,377057,0,Oil Change - Quickly such former agree theory.,2026,9,September
+MAINT0053,TRK034,2026-08-01,Engine Service,1.33,2040.08,3,427637,0,Engine Service - Condition while enter board.,2026,8,August
+MAINT0054,TRK008,2026-06-22,Cooling System,1.08,975.45,3,756301,1,Cooling System - Generation skill job worker break.,2026,6,June
+MAINT0055,TRK019,2026-05-12,Oil Change,0.75,135.12,1,384819,1,Oil Change - Couple and job mind southern rather.,2026,5,May
+MAINT0056,TRK011,2026-07-12,Cooling System,1.18,971.21,3,991306,1,Cooling System - Hair attorney professional form.,2026,7,July
+MAINT0057,TRK030,2026-03-21,Full Service,0.98,1256.67,3,697126,1,Full Service - Professional by tonight medical project.,2026,3,March
+MAINT0058,TRK003,2026-02-17,Brake Replacement,1.05,699.14,3,322226,0,Brake Replacement - I fast camera inside wait.,2026,2,February
+MAINT0059,TRK016,2026-07-07,Transmission Repair,1.0,2205.43,7,358815,1,Transmission Repair - Past feeling nature a.,2026,7,July
+MAINT0060,TRK029,2026-07-15,Brake Replacement,0.97,842.89,1,638072,1,Brake Replacement - Decision size parent focus.,2026,7,July
+MAINT0061,TRK011,2026-08-24,Full Service,1.01,1498.09,1,995893,1,Full Service - Kind degree list top somebody.,2026,8,August
+MAINT0062,TRK009,2026-02-15,Oil Change,0.79,182.65,1,705984,1,Oil Change - Probably exist professional people.,2026,2,February
+MAINT0063,TRK009,2026-06-07,Engine Service,1.12,2329.65,3,723346,1,Engine Service - Stand seem pull.,2026,6,June
+MAINT0064,TRK026,2026-01-29,Brake Replacement,1.27,1309.98,3,834509,1,Brake Replacement - Southern challenge animal worker.,2026,1,January
+MAINT0065,TRK010,2026-02-09,Clutch Replacement,0.88,1846.83,3,713992,1,Clutch Replacement - Sure authority increase picture create recent.,2026,2,February
+MAINT0066,TRK014,2025-11-18,Oil Change,1.01,182.06,1,465009,1,Oil Change - Hundred challenge reach throughout team those.,2025,11,November
+MAINT0067,TRK020,2026-08-25,Tire Replacement,1.26,600.23,1,599493,0,Tire Replacement - Despite sound receive let newspaper.,2026,8,August
+MAINT0068,TRK033,2026-02-02,Suspension Repair,1.23,2240.73,2,733837,1,Suspension Repair - Lead soon property.,2026,2,February
+MAINT0069,TRK029,2026-05-28,Brake Replacement,0.97,913.17,1,639629,0,Brake Replacement - Other wear through partner rest measure.,2026,5,May
+MAINT0070,TRK007,2026-03-16,Full Service,0.76,635.71,1,378767,0,Full Service - Knowledge city technology late seem style.,2026,3,March
+MAINT0071,TRK032,2026-07-23,Full Service,1.05,1300.92,1,706528,1,Full Service - She miss phone ever.,2026,7,July
+MAINT0072,TRK031,2026-06-02,Cooling System,1.1,925.6,3,932844,1,Cooling System - Require doctor from.,2026,6,June
+MAINT0073,TRK028,2026-04-06,Brake Replacement,1.0,810.73,3,543247,0,Brake Replacement - Ball character him check degree increase.,2026,4,April
+MAINT0074,TRK019,2026-08-14,Brake Replacement,1.15,835.05,3,420758,1,Brake Replacement - My indeed deal information toward.,2026,8,August
+MAINT0075,TRK002,2025-10-19,Oil Change,0.75,180.19,1,760180,1,Oil Change - Watch affect thing offer local wall.,2025,10,October
+MAINT0076,TRK026,2025-10-18,Brake Replacement,1.19,1170.95,3,837631,1,Brake Replacement - Send table well industry.,2025,10,October
+MAINT0077,TRK019,2026-05-23,Tire Replacement,0.83,354.57,1,382833,0,Tire Replacement - Son today major event magazine home.,2026,5,May
+MAINT0078,TRK011,2026-04-04,Electrical Repair,0.91,1000.82,3,989166,1,Electrical Repair - Right subject try wonder move.,2026,4,April
+MAINT0079,TRK001,2026-05-22,Transmission Repair,1.13,3959.04,8,1064589,1,Transmission Repair - Option production base investment term.,2026,5,May
+MAINT0080,TRK008,2025-09-28,Transmission Repair,1.35,4074.76,8,782354,1,Transmission Repair - Anyone here deep force.,2025,9,September
+MAINT0081,TRK022,2026-04-05,Electrical Repair,1.04,780.1,1,369352,0,Electrical Repair - Everything week instead strong like.,2026,4,April
+MAINT0082,TRK004,2025-11-10,Full Service,1.2,1124.6,3,467020,1,Full Service - Appear weight difference attention whatever American.,2025,11,November
+MAINT0083,TRK025,2026-05-01,Oil Change,0.97,242.33,1,804077,1,Oil Change - Wear current after.,2026,5,May
+MAINT0084,TRK030,2026-03-12,Transmission Repair,1.04,3195.97,3,692314,1,Transmission Repair - Draw list boy.,2026,3,March
+MAINT0085,TRK011,2026-01-30,Electrical Repair,0.7,815.58,3,976050,1,Electrical Repair - Let eight hard paper.,2026,1,January
+MAINT0086,TRK003,2026-05-16,Cooling System,1.04,629.39,1,363169,1,Cooling System - Sing clearly find.,2026,5,May
+MAINT0087,TRK005,2026-09-01,Oil Change,1.22,232.62,1,444069,0,Oil Change - Agent find quality when however resource.,2026,9,September
+MAINT0088,TRK013,2026-06-15,Tire Replacement,0.95,426.5,1,481388,1,Tire Replacement - Option store drug.,2026,6,June
+MAINT0089,TRK030,2026-03-01,Oil Change,0.87,181.71,1,685661,1,Oil Change - Sure outside building worker.,2026,3,March
+MAINT0090,TRK024,2025-10-26,Engine Service,1.39,1734.09,1,225320,0,Engine Service - Girl into have.,2025,10,October
+MAINT0091,TRK031,2026-06-17,Engine Service,1.01,2131.94,3,914936,1,Engine Service - Positive actually information majority item gun.,2026,6,June
+MAINT0092,TRK035,2026-03-20,Brake Replacement,1.11,1041.58,3,657149,1,Brake Replacement - Religious itself safe whole establish.,2026,3,March
+MAINT0093,TRK008,2026-01-28,Brake Replacement,0.94,1003.43,1,775591,1,Brake Replacement - Simple let stay or focus early.,2026,1,January
+MAINT0094,TRK026,2026-08-05,Engine Service,0.87,1908.68,4,828069,1,Engine Service - Everything late seek.,2026,8,August
+MAINT0095,TRK017,2026-08-24,Clutch Replacement,0.93,1465.86,3,269313,0,Clutch Replacement - Particular her agreement surface consider deep.,2026,8,August
+MAINT0096,TRK018,2026-07-25,Oil Change,0.99,248.81,1,814253,1,Oil Change - Future they red everybody.,2026,7,July
+MAINT0097,TRK011,2025-11-05,Clutch Replacement,1.14,3108.95,3,1011133,1,Clutch Replacement - Might course drop.,2025,11,November
+MAINT0098,TRK012,2026-04-02,Electrical Repair,0.69,446.25,1,239648,0,Electrical Repair - Major serve real position make.,2026,4,April
+MAINT0099,TRK025,2025-11-17,Electrical Repair,0.95,1062.15,3,797726,1,Electrical Repair - Behavior develop reality.,2025,11,November
+MAINT0100,TRK023,2026-02-19,Tire Replacement,0.89,413.66,1,377904,0,Tire Replacement - Professional hard network gas.,2026,2,February
+MAINT0101,TRK011,2026-08-15,Tire Replacement,1.12,686.92,1,996653,1,Tire Replacement - Former reflect even edge building court.,2026,8,August
+MAINT0102,TRK004,2026-04-28,Electrical Repair,1.03,812.87,3,453610,1,Electrical Repair - Sea week real.,2026,4,April
+MAINT0103,TRK021,2026-01-31,Brake Replacement,1.25,1116.33,2,630567,1,Brake Replacement - Describe machine right with.,2026,1,January
+MAINT0104,TRK028,2026-02-10,Cooling System,0.94,631.72,3,531770,1,Cooling System - Others wonder strategy fast guess few.,2026,2,February
+MAINT0105,TRK021,2026-04-08,Tire Replacement,0.99,511.16,1,671988,1,Tire Replacement - Call animal approach factor want point.,2026,4,April
+MAINT0106,TRK001,2026-02-01,Full Service,1.3,1944.32,3,1054328,1,Full Service - Bill activity expect long future whole.,2026,2,February
+MAINT0107,TRK010,2025-12-22,Tire Replacement,1.01,595.42,1,721514,1,Tire Replacement - Wait local state husband.,2025,12,December
+MAINT0108,TRK029,2026-01-02,Oil Change,1.14,284.8,1,657193,1,Oil Change - Officer rather charge.,2026,1,January
+MAINT0109,TRK028,2026-08-18,Oil Change,0.81,174.99,1,555024,1,Oil Change - We be easy newspaper indicate other.,2026,8,August
+MAINT0110,TRK001,2026-06-25,Cooling System,1.08,1040.82,2,1042237,1,Cooling System - Difficult mission late kind team wrong.,2026,6,June
+MAINT0111,TRK018,2026-08-02,Oil Change,0.98,259.47,1,817411,1,Oil Change - Notice art whether between.,2026,8,August
+MAINT0112,TRK016,2026-02-01,Engine Service,1.1,1623.09,1,352599,1,Engine Service - Personal enough ball dream.,2026,2,February
+MAINT0113,TRK025,2025-10-28,Oil Change,1.0,281.78,1,823981,1,Oil Change - Avoid able late order fact discuss.,2025,10,October
+MAINT0114,TRK005,2026-05-08,Engine Service,1.21,1950.0,3,461578,0,Engine Service - Reflect law reach under.,2026,5,May
+MAINT0115,TRK023,2025-12-07,Electrical Repair,0.79,640.57,1,398104,0,Electrical Repair - Operation sound cup boy different chance enter.,2025,12,December
+MAINT0116,TRK034,2025-10-11,Electrical Repair,0.9,656.6,3,444932,0,Electrical Repair - Author coach film.,2025,10,October
+MAINT0117,TRK013,2025-12-08,Electrical Repair,1.42,1054.58,3,501803,1,Electrical Repair - Tv keep light fight I evening.,2025,12,December
+MAINT0118,TRK011,2026-07-13,Engine Service,1.1,2213.11,4,1000482,1,Engine Service - Management ball always it focus economy.,2026,7,July
+MAINT0119,TRK001,2026-05-31,Oil Change,1.28,400.5,2,1059671,1,Oil Change - Director purpose team.,2026,5,May
+MAINT0120,TRK002,2025-10-27,Oil Change,0.82,205.97,1,763212,1,Oil Change - Week yourself public especially American series.,2025,10,October
+MAINT0121,TRK033,2026-04-06,Full Service,1.03,1485.48,3,750744,1,Full Service - Million kind everything young job sport.,2026,4,April
+MAINT0122,TRK035,2025-11-23,Oil Change,1.24,290.2,1,684186,1,Oil Change - Like impact fly.,2025,11,November
+MAINT0123,TRK001,2026-03-11,Electrical Repair,0.94,1059.84,3,1063199,1,Electrical Repair - Tax form really.,2026,3,March
+MAINT0124,TRK032,2025-10-20,Oil Change,0.93,227.08,1,735347,1,Oil Change - Production hundred set already.,2025,10,October
+MAINT0125,TRK006,2026-03-28,Oil Change,0.76,168.79,1,672874,1,Oil Change - Fire follow wife.,2026,3,March
+MAINT0126,TRK021,2025-11-02,Suspension Repair,1.05,1710.17,3,650602,1,Suspension Repair - Ten stay ability thank left.,2025,11,November
+MAINT0127,TRK025,2026-08-19,Brake Replacement,1.1,1095.66,2,834207,1,Brake Replacement - Could gun series.,2026,8,August
+MAINT0128,TRK013,2026-04-06,Electrical Repair,0.95,764.06,3,489130,1,Electrical Repair - Kind appear environment capital explain thing machine.,2026,4,April
+MAINT0129,TRK020,2026-09-13,Tire Replacement,1.01,523.15,1,602245,1,Tire Replacement - Win participant dream.,2026,9,September
+MAINT0130,TRK023,2026-08-10,Electrical Repair,0.86,657.5,3,399344,0,Electrical Repair - Financial add impact different.,2026,8,August
+MAINT0131,TRK007,2025-11-04,Clutch Replacement,1.16,1848.47,4,386462,0,Clutch Replacement - Left brother strategy.,2025,11,November
+MAINT0132,TRK035,2025-12-28,Brake Replacement,0.94,896.21,1,659298,0,Brake Replacement - Usually factor relate indeed lot line.,2025,12,December
+MAINT0133,TRK008,2025-10-04,Electrical Repair,0.93,911.19,1,794514,1,Electrical Repair - Necessary himself two meet these.,2025,10,October
+MAINT0134,TRK001,2026-05-30,Tire Replacement,1.17,870.55,2,1059894,1,Tire Replacement - Everybody so increase.,2026,5,May
+MAINT0135,TRK034,2026-06-04,Oil Change,0.98,199.61,1,434833,0,Oil Change - Environment able rise study oil process.,2026,6,June
+MAINT0136,TRK015,2025-09-30,Engine Service,1.2,1901.47,1,540399,0,Engine Service - Land machine forward.,2025,9,September
+MAINT0137,TRK014,2026-03-13,Suspension Repair,1.03,1348.35,1,480102,1,Suspension Repair - Help usually thank wonder draw him.,2026,3,March
+MAINT0138,TRK010,2026-04-17,Engine Service,1.02,1894.5,4,730923,1,Engine Service - Analysis seat relate specific history.,2026,4,April
+MAINT0139,TRK001,2026-08-29,Oil Change,0.78,218.12,1,1054991,1,Oil Change - Manager already maybe.,2026,8,August
+MAINT0140,TRK009,2026-07-15,Brake Replacement,1.39,1408.78,2,705718,0,Brake Replacement - Forward beyond suddenly between treat address.,2026,7,July
+MAINT0141,TRK014,2025-10-10,Cooling System,0.95,563.13,3,478555,1,Cooling System - Improve pressure child.,2025,10,October
+MAINT0142,TRK019,2026-08-22,Engine Service,0.74,1135.33,4,386518,1,Engine Service - Sit enter perhaps however bag forget.,2026,8,August
+MAINT0143,TRK017,2025-10-15,Transmission Repair,0.96,1949.49,4,280401,1,Transmission Repair - Here first responsibility service their along.,2025,10,October
+MAINT0144,TRK032,2025-09-29,Brake Replacement,0.95,938.77,1,733402,1,Brake Replacement - Doctor range explain.,2025,9,September
+MAINT0145,TRK033,2026-02-26,Suspension Repair,0.93,1489.95,1,746250,1,Suspension Repair - Section its better plant.,2026,2,February
+MAINT0146,TRK011,2026-05-13,Oil Change,1.05,257.14,1,1003799,1,Oil Change - Kitchen really tough.,2026,5,May
+MAINT0147,TRK034,2025-11-15,Engine Service,1.25,2017.8,4,425295,0,Engine Service - Food argue grow.,2025,11,November
+MAINT0148,TRK031,2026-08-03,Brake Replacement,1.22,1213.6,2,919119,1,Brake Replacement - Certainly most not society color.,2026,8,August
+MAINT0149,TRK033,2026-04-28,Tire Replacement,1.01,600.65,1,728796,1,Tire Replacement - Participant him raise.,2026,4,April
+MAINT0150,TRK026,2026-03-07,Brake Replacement,0.67,660.09,1,860329,1,Brake Replacement - Tree central leave effect effort act.,2026,3,March
+MAINT0151,TRK008,2026-03-05,Suspension Repair,1.02,1658.79,1,785230,0,Suspension Repair - Top quality citizen kid generation.,2026,3,March
+MAINT0152,TRK007,2025-10-15,Oil Change,1.07,187.28,1,380287,1,Oil Change - Federal while real lead few yourself.,2025,10,October
+MAINT0153,TRK033,2025-10-24,Brake Replacement,1.17,1271.61,2,749469,1,Brake Replacement - Blood high grow fast recognize against.,2025,10,October
+MAINT0154,TRK019,2026-04-22,Brake Replacement,1.14,802.14,3,379564,0,Brake Replacement - Ever not rate seat any.,2026,4,April
+MAINT0155,TRK032,2026-07-02,Brake Replacement,0.77,783.4,1,743668,1,Brake Replacement - Seat strategy total simply discover soon.,2026,7,July
+MAINT0156,TRK027,2026-07-16,Engine Service,1.08,1465.63,1,260682,0,Engine Service - Pm per question return.,2026,7,July
+MAINT0157,TRK008,2026-08-11,Oil Change,0.82,214.37,1,789202,1,Oil Change - Pick tough position.,2026,8,August
+MAINT0158,TRK014,2025-09-30,Clutch Replacement,1.12,2073.97,3,465858,0,Clutch Replacement - Small almost half capital.,2025,9,September
+MAINT0159,TRK034,2025-09-25,Engine Service,1.29,2176.3,1,448733,0,Engine Service - Force indeed customer skill.,2025,9,September
+MAINT0160,TRK001,2026-09-18,Electrical Repair,1.2,1603.0,3,1050553,1,Electrical Repair - Most tree store either station.,2026,9,September
+MAINT0161,TRK026,2026-04-23,Electrical Repair,1.02,1142.51,3,820035,1,Electrical Repair - Whose far that sound life away.,2026,4,April
+MAINT0162,TRK035,2026-09-11,Brake Replacement,0.89,816.59,1,656672,0,Brake Replacement - Team right woman whose.,2026,9,September
+MAINT0163,TRK004,2026-08-15,Transmission Repair,1.08,2659.13,7,465094,1,Transmission Repair - Hand so add Mr lawyer pull.,2026,8,August
+MAINT0164,TRK010,2026-04-20,Brake Replacement,0.7,669.83,1,711356,1,Brake Replacement - Once state wait board.,2026,4,April
+MAINT0165,TRK020,2026-07-31,Electrical Repair,1.06,908.07,1,610491,1,Electrical Repair - Likely people wall foreign.,2026,7,July
+MAINT0166,TRK031,2026-06-04,Oil Change,0.95,245.47,1,936864,1,Oil Change - Determine as statement travel few impact.,2026,6,June
+MAINT0167,TRK019,2026-08-09,Suspension Repair,1.12,1463.33,3,413291,1,Suspension Repair - Animal also you.,2026,8,August
+MAINT0168,TRK002,2026-03-19,Tire Replacement,1.02,541.85,1,737135,1,Tire Replacement - Best thought career.,2026,3,March
+MAINT0169,TRK005,2025-12-29,Engine Service,0.86,1375.0,4,431413,0,Engine Service - He we recent music onto.,2025,12,December
+MAINT0170,TRK013,2025-11-09,Oil Change,1.12,210.72,1,495584,1,Oil Change - Those pressure street.,2025,11,November
+MAINT0171,TRK011,2026-05-17,Cooling System,0.8,745.01,1,998066,1,Cooling System - Impact week allow have kitchen wear.,2026,5,May
+MAINT0172,TRK008,2026-02-10,Engine Service,1.04,2010.1,1,784340,1,Engine Service - Between rate name within grow.,2026,2,February
+MAINT0173,TRK031,2025-12-07,Electrical Repair,0.69,810.88,3,934637,1,Electrical Repair - Every why we station begin.,2025,12,December
+MAINT0174,TRK001,2026-06-03,Brake Replacement,1.32,1574.4,2,1040345,1,Brake Replacement - Politics others again skill.,2026,6,June
+MAINT0175,TRK030,2025-10-19,Oil Change,1.04,235.64,1,695642,1,Oil Change - Writer skin day stop.,2025,10,October
+MAINT0176,TRK033,2026-01-07,Tire Replacement,0.65,360.3,1,735741,1,Tire Replacement - Debate democratic thank forget challenge too.,2026,1,January
+MAINT0177,TRK024,2026-08-03,Suspension Repair,0.76,828.38,2,250118,0,Suspension Repair - Everyone worker would.,2026,8,August
+MAINT0178,TRK023,2025-10-14,Engine Service,0.65,983.64,1,394805,1,Engine Service - Economy company produce ago address so.,2025,10,October
+MAINT0179,TRK006,2026-06-24,Brake Replacement,1.06,968.87,1,669705,1,Brake Replacement - Open administration enter camera.,2026,6,June
+MAINT0180,TRK021,2026-05-28,Oil Change,0.65,145.78,1,641165,1,Oil Change - Moment second live sing message.,2026,5,May
+MAINT0181,TRK013,2026-01-20,Cooling System,0.88,614.39,3,494746,1,Cooling System - Later develop past.,2026,1,January
+MAINT0182,TRK008,2026-04-24,Brake Replacement,1.15,1146.06,3,773491,1,Brake Replacement - Feeling poor all your suggest international.,2026,4,April
+MAINT0183,TRK021,2026-01-17,Cooling System,0.89,707.43,3,636485,1,Cooling System - Make travel available.,2026,1,January
+MAINT0184,TRK001,2026-01-16,Engine Service,1.14,2836.41,5,1049858,1,Engine Service - Focus chance call.,2026,1,January
+MAINT0185,TRK010,2026-04-21,Clutch Replacement,0.81,1826.69,4,734764,1,Clutch Replacement - Plan nature foot yes most law.,2026,4,April
+MAINT0186,TRK025,2026-01-12,Engine Service,0.88,1770.77,4,815827,1,Engine Service - Involve soldier boy pressure there necessary.,2026,1,January
+MAINT0187,TRK017,2026-05-28,Engine Service,0.84,1022.61,2,282923,1,Engine Service - Involve thousand including still.,2026,5,May
+MAINT0188,TRK006,2025-12-05,Brake Replacement,0.95,844.77,3,695002,1,Brake Replacement - Indeed believe interview professor hear.,2025,12,December
+MAINT0189,TRK001,2025-12-22,Tire Replacement,1.03,666.13,2,1038536,1,Tire Replacement - Rather listen before.,2025,12,December
+MAINT0190,TRK010,2026-05-14,Electrical Repair,1.01,1013.27,3,740507,1,Electrical Repair - Behavior benefit school.,2026,5,May
+MAINT0191,TRK020,2026-02-07,Brake Replacement,0.79,584.93,1,610905,1,Brake Replacement - News only no.,2026,2,February
+MAINT0192,TRK020,2025-10-08,Electrical Repair,0.69,630.28,1,620920,0,Electrical Repair - Prove improve them wait institution.,2025,10,October
+MAINT0193,TRK005,2026-02-12,Brake Replacement,0.93,645.79,3,435827,0,Brake Replacement - Why outside goal.,2026,2,February
+MAINT0194,TRK023,2026-05-14,Tire Replacement,1.28,570.49,1,396792,1,Tire Replacement - Medical choice lot suggest glass news.,2026,5,May
+MAINT0195,TRK035,2026-01-12,Clutch Replacement,1.0,2321.16,6,652054,1,Clutch Replacement - Several off southern.,2026,1,January
+MAINT0196,TRK021,2025-12-11,Suspension Repair,0.94,1469.95,4,621176,1,Suspension Repair - Window stand party poor ago upon.,2025,12,December
+MAINT0197,TRK020,2026-08-01,Full Service,1.09,1195.62,1,588659,1,Full Service - Ahead event several TV.,2026,8,August
+MAINT0198,TRK023,2025-11-05,Tire Replacement,1.17,461.42,1,385059,1,Tire Replacement - Accept thank not husband center.,2025,11,November
+MAINT0199,TRK032,2026-01-10,Oil Change,1.02,259.58,1,724366,1,Oil Change - Begin most heavy.,2026,1,January
+MAINT0200,TRK034,2026-02-11,Engine Service,0.93,1406.84,3,436444,1,Engine Service - Game have return since nothing.,2026,2,February
+MAINT0201,TRK001,2026-01-26,Transmission Repair,1.06,3900.06,8,1066206,1,Transmission Repair - Third choose senior.,2026,1,January
+MAINT0202,TRK008,2026-07-15,Brake Replacement,0.92,891.08,1,763017,1,Brake Replacement - Purpose evening product.,2026,7,July
+MAINT0203,TRK004,2026-07-12,Clutch Replacement,1.22,2251.74,4,469692,0,Clutch Replacement - Parent increase democratic mention generation book.,2026,7,July
+MAINT0204,TRK029,2025-10-14,Engine Service,0.81,1489.74,3,628752,1,Engine Service - Main project animal house out account.,2025,10,October
+MAINT0205,TRK001,2026-06-07,Engine Service,1.07,2671.12,5,1050759,1,Engine Service - War should share face.,2026,6,June
+MAINT0206,TRK032,2026-04-11,Oil Change,1.32,293.68,2,737275,1,Oil Change - Account section compare.,2026,4,April
+MAINT0207,TRK001,2026-05-11,Oil Change,0.89,264.64,1,1038297,1,Oil Change - Mouth discover next property government.,2026,5,May
+MAINT0208,TRK022,2026-07-04,Cooling System,1.01,532.92,3,357439,1,Cooling System - Technology amount affect TV television.,2026,7,July
+MAINT0209,TRK010,2026-01-11,Brake Replacement,0.73,673.62,3,707495,1,Brake Replacement - Investment identify policy face if whom.,2026,1,January
+MAINT0210,TRK018,2026-01-22,Oil Change,0.88,204.07,1,810784,0,Oil Change - Soon peace story turn.,2026,1,January
+MAINT0211,TRK016,2025-09-30,Oil Change,1.11,173.92,1,379128,0,Oil Change - Join black job.,2025,9,September
+MAINT0212,TRK028,2025-12-13,Electrical Repair,1.19,1109.09,1,544630,1,Electrical Repair - Model how financial fund four.,2025,12,December
+MAINT0213,TRK018,2026-05-12,Tire Replacement,0.92,555.78,1,801634,1,Tire Replacement - Baby plan most create.,2026,5,May
+MAINT0214,TRK015,2026-09-17,Tire Replacement,1.07,490.22,1,547755,1,Tire Replacement - Go when population challenge bill.,2026,9,September
+MAINT0215,TRK027,2026-08-08,Tire Replacement,0.81,309.57,1,270137,0,Tire Replacement - Culture own set pretty.,2026,8,August
+MAINT0216,TRK033,2026-08-09,Engine Service,0.84,1846.26,4,727043,1,Engine Service - Week physical less nor.,2026,8,August
+MAINT0217,TRK029,2026-03-11,Oil Change,1.05,260.65,1,653572,1,Oil Change - Large under north play person ten.,2026,3,March
+MAINT0218,TRK028,2026-04-28,Cooling System,1.3,886.05,1,532075,1,Cooling System - Firm key light place someone option goal.,2026,4,April
+MAINT0219,TRK018,2026-09-07,Engine Service,0.69,1374.86,3,833791,1,Engine Service - Financial later arm.,2026,9,September
+MAINT0220,TRK032,2025-10-20,Oil Change,1.36,336.84,2,767021,1,Oil Change - Baby ten talk past.,2025,10,October
+MAINT0221,TRK018,2025-10-18,Engine Service,1.42,3012.14,3,814060,1,Engine Service - His oil west school American training.,2025,10,October
+MAINT0222,TRK033,2026-05-18,Oil Change,1.0,244.85,1,754470,1,Oil Change - Prepare focus little character artist billion.,2026,5,May
+MAINT0223,TRK030,2026-03-28,Brake Replacement,0.75,722.93,1,680096,1,Brake Replacement - Word base position always remain.,2026,3,March
+MAINT0224,TRK006,2026-07-06,Electrical Repair,0.97,977.29,1,691047,0,Electrical Repair - Model particular hair truth hold.,2026,7,July
+MAINT0225,TRK002,2025-12-01,Full Service,1.21,1477.58,1,739965,1,Full Service - Quickly appear piece free form.,2025,12,December
+MAINT0226,TRK028,2026-06-25,Engine Service,0.77,1299.06,3,544142,0,Engine Service - Question exist rich prevent trade their.,2026,6,June
+MAINT0227,TRK026,2026-07-16,Clutch Replacement,0.76,1758.44,5,826721,1,Clutch Replacement - Bank professional true financial prevent.,2026,7,July
+MAINT0228,TRK022,2026-01-07,Cooling System,1.04,652.01,1,361371,1,Cooling System - Can remember be next poor.,2026,1,January
+MAINT0229,TRK035,2026-03-05,Tire Replacement,0.86,487.69,1,669011,1,Tire Replacement - Spend prove stock school rate.,2026,3,March
+MAINT0230,TRK020,2026-06-06,Electrical Repair,1.14,958.16,3,590491,1,Electrical Repair - Behavior provide meet adult final week.,2026,6,June
+MAINT0231,TRK012,2025-10-19,Engine Service,1.06,1375.26,3,214416,0,Engine Service - Way main difficult case baby.,2025,10,October
+MAINT0232,TRK021,2026-05-11,Oil Change,1.11,276.86,1,635006,1,Oil Change - Medical music school.,2026,5,May
+MAINT0233,TRK001,2026-05-20,Electrical Repair,0.96,1131.97,3,1049443,1,Electrical Repair - Also from short capital heavy class.,2026,5,May
+MAINT0234,TRK021,2026-05-11,Oil Change,0.8,199.22,1,634125,1,Oil Change - Speak close join improve put down.,2026,5,May
+MAINT0235,TRK032,2025-12-27,Clutch Replacement,1.31,3284.95,5,727726,1,Clutch Replacement - Particular sell six doctor dream.,2025,12,December
+MAINT0236,TRK001,2025-11-05,Engine Service,1.03,2616.56,2,1050314,1,Engine Service - Tough create question now key show.,2025,11,November
+MAINT0237,TRK031,2026-02-16,Full Service,1.24,1860.9,2,938202,1,Full Service - Me industry class current painting.,2026,2,February
+MAINT0238,TRK030,2025-11-16,Brake Replacement,0.65,595.79,1,675473,1,Brake Replacement - Appear lose he various.,2025,11,November
+MAINT0239,TRK004,2026-09-13,Brake Replacement,1.27,1012.52,1,484481,0,Brake Replacement - Surface expect several evening town challenge.,2026,9,September
+MAINT0240,TRK031,2026-01-04,Oil Change,0.8,216.09,1,924271,1,Oil Change - Begin treat stage this us.,2026,1,January
+MAINT0241,TRK029,2026-02-19,Tire Replacement,0.98,489.73,1,639502,1,Tire Replacement - Apply maybe dog yes heart.,2026,2,February
+MAINT0242,TRK018,2026-05-22,Tire Replacement,1.12,604.97,1,808890,1,Tire Replacement - Five between research.,2026,5,May
+MAINT0243,TRK009,2026-08-18,Engine Service,0.91,1706.8,1,721741,1,Engine Service - Social case expert stop receive.,2026,8,August
+MAINT0244,TRK010,2025-10-24,Engine Service,0.65,1255.43,1,724034,1,Engine Service - Serve light past.,2025,10,October
+MAINT0245,TRK023,2026-06-15,Oil Change,1.09,194.18,1,413910,0,Oil Change - Affect democratic change.,2026,6,June
+MAINT0246,TRK009,2026-07-15,Tire Replacement,1.01,620.53,1,693671,1,Tire Replacement - Month book explain feeling answer information.,2026,7,July
+MAINT0247,TRK011,2026-05-28,Oil Change,1.02,279.77,1,969619,1,Oil Change - Lead book toward others administration middle.,2026,5,May
+MAINT0248,TRK033,2026-05-14,Tire Replacement,1.07,638.64,2,759677,1,Tire Replacement - Responsibility fact ability good.,2026,5,May
+MAINT0249,TRK027,2026-02-25,Brake Replacement,0.99,621.14,3,270464,1,Brake Replacement - Indicate professor beat window attack moment.,2026,2,February
+MAINT0250,TRK028,2026-01-16,Oil Change,1.14,241.29,1,538295,0,Oil Change - Skill medical after them analysis hit.,2026,1,January
+MAINT0251,TRK034,2025-10-16,Brake Replacement,1.13,786.07,3,467074,1,Brake Replacement - Effect administration small general run.,2025,10,October
+MAINT0252,TRK001,2026-05-13,Full Service,0.92,1367.64,1,1053904,1,Full Service - Billion old series card good full poor.,2026,5,May
+MAINT0253,TRK009,2026-09-21,Oil Change,1.27,312.67,2,731624,1,Oil Change - Wonder long consider care respond.,2026,9,September
+MAINT0254,TRK025,2025-12-20,Suspension Repair,1.1,2055.4,5,818189,1,Suspension Repair - Already cut social though firm.,2025,12,December
+MAINT0255,TRK016,2026-08-29,Suspension Repair,1.13,1255.17,1,372216,0,Suspension Repair - Middle writer myself education.,2026,8,August
+MAINT0256,TRK004,2026-01-21,Engine Service,1.16,1716.41,3,449478,0,Engine Service - Experience television answer pretty.,2026,1,January
+MAINT0257,TRK029,2026-07-13,Brake Replacement,1.33,1238.65,3,661146,1,Brake Replacement - Buy happy threat sea.,2026,7,July
+MAINT0258,TRK002,2026-03-30,Brake Replacement,0.99,894.22,1,757578,1,Brake Replacement - Fund cost reality happen something.,2026,3,March
+MAINT0259,TRK020,2026-08-28,Tire Replacement,0.98,487.27,1,624455,1,Tire Replacement - Song risk bad own.,2026,8,August
+MAINT0260,TRK021,2025-12-06,Tire Replacement,1.02,610.25,1,632921,1,Tire Replacement - Nation fly bag produce.,2025,12,December
+MAINT0261,TRK024,2026-06-22,Tire Replacement,1.39,502.11,1,239222,0,Tire Replacement - Knowledge response coach know.,2026,6,June
+MAINT0262,TRK011,2026-04-17,Full Service,0.97,1375.66,1,1011232,1,Full Service - Amount thank good your ever.,2026,4,April
+MAINT0263,TRK001,2026-05-14,Full Service,1.13,1656.77,2,1044806,1,Full Service - Avoid point guy.,2026,5,May
+MAINT0264,TRK032,2025-09-24,Full Service,1.32,1629.04,3,741803,1,Full Service - Well central parent sit.,2025,9,September
+MAINT0265,TRK033,2026-08-19,Electrical Repair,1.07,1056.78,3,746208,1,Electrical Repair - Call door population.,2026,8,August
+MAINT0266,TRK018,2026-02-17,Full Service,0.84,1075.11,1,783800,1,Full Service - Him note painting quickly we.,2026,2,February
+MAINT0267,TRK001,2026-07-08,Cooling System,1.14,1055.62,3,1035388,1,Cooling System - Know baby case happen fire.,2026,7,July
+MAINT0268,TRK021,2026-03-14,Electrical Repair,0.84,897.33,3,641644,1,Electrical Repair - Economic box save material.,2026,3,March
+MAINT0269,TRK011,2025-10-12,Brake Replacement,0.98,1017.03,1,981095,1,Brake Replacement - Trial brother simple region Democrat.,2025,10,October
+MAINT0270,TRK007,2026-02-26,Engine Service,1.14,1744.34,4,362284,0,Engine Service - Experience trouble make but table later.,2026,2,February
+MAINT0271,TRK006,2026-01-12,Tire Replacement,1.14,620.9,1,674953,1,Tire Replacement - Young specific whose worry property.,2026,1,January
+MAINT0272,TRK007,2026-03-08,Engine Service,0.85,1099.49,4,363249,0,Engine Service - Nearly face feel.,2026,3,March
+MAINT0273,TRK011,2025-12-30,Oil Change,1.04,258.61,1,976457,1,Oil Change - Republican until point soldier.,2025,12,December
+MAINT0274,TRK010,2026-02-11,Brake Replacement,0.77,685.06,1,739054,1,Brake Replacement - Difference world society door management guess.,2026,2,February
+MAINT0275,TRK031,2026-06-24,Suspension Repair,0.75,1267.25,4,909036,1,Suspension Repair - Hard sound necessary partner beat finally.,2026,6,June
+MAINT0276,TRK018,2026-08-31,Full Service,1.12,1503.67,3,815068,1,Full Service - Moment shoulder statement available win politics.,2026,8,August
+MAINT0277,TRK015,2025-12-30,Oil Change,0.9,197.01,1,531327,1,Oil Change - Letter military campaign stop necessary.,2025,12,December
+MAINT0278,TRK006,2026-08-29,Tire Replacement,0.87,457.64,1,671662,1,Tire Replacement - Consider whom item treat area buy.,2026,8,August
+MAINT0279,TRK032,2026-04-28,Tire Replacement,1.1,634.63,1,734130,1,Tire Replacement - Fight class various.,2026,4,April
+MAINT0280,TRK002,2025-09-28,Transmission Repair,0.94,2650.26,6,736803,1,Transmission Repair - Generation wait thus suffer.,2025,9,September
+MAINT0281,TRK009,2026-02-26,Full Service,1.13,1489.41,1,703740,1,Full Service - Cultural what ever person.,2026,2,February
+MAINT0282,TRK023,2026-01-10,Cooling System,0.72,460.53,2,413317,1,Cooling System - Move maybe collection walk child probably.,2026,1,January
+MAINT0283,TRK026,2026-04-22,Suspension Repair,0.94,1585.26,3,857226,1,Suspension Repair - Front under American tell ball we.,2026,4,April
+MAINT0284,TRK030,2025-12-14,Suspension Repair,0.91,1358.4,3,688521,1,Suspension Repair - Enough decision occur peace air threat.,2025,12,December
+MAINT0285,TRK015,2026-04-22,Brake Replacement,0.84,697.01,1,545831,0,Brake Replacement - Face what lot source rate father.,2026,4,April
+MAINT0286,TRK012,2025-12-04,Brake Replacement,0.94,552.93,3,232385,0,Brake Replacement - Read citizen indeed.,2025,12,December
+MAINT0287,TRK010,2026-06-17,Full Service,1.02,1261.79,1,715774,1,Full Service - Daughter parent fine responsibility safe.,2026,6,June
+MAINT0288,TRK021,2026-07-21,Cooling System,1.04,891.31,1,634817,1,Cooling System - Wish candidate have no five.,2026,7,July
+MAINT0289,TRK012,2025-09-25,Tire Replacement,1.03,408.58,1,214453,1,Tire Replacement - Business last cell anything war.,2025,9,September
+MAINT0290,TRK011,2026-04-22,Brake Replacement,0.75,781.39,3,979389,1,Brake Replacement - Industry while total spend value return.,2026,4,April
+MAINT0291,TRK001,2026-09-20,Oil Change,0.79,237.91,1,1034789,1,Oil Change - Several marriage method material.,2026,9,September
+MAINT0292,TRK034,2026-01-02,Brake Replacement,1.09,785.09,3,435509,1,Brake Replacement - Market bed hotel lead.,2026,1,January
+MAINT0293,TRK002,2026-02-17,Oil Change,0.92,215.0,1,743995,0,Oil Change - Democrat good anything manager.,2026,2,February
+MAINT0294,TRK010,2026-02-23,Suspension Repair,1.06,1519.21,3,714453,1,Suspension Repair - Experience account blue care enough hand.,2026,2,February
+MAINT0295,TRK033,2026-06-01,Oil Change,1.19,324.31,2,742480,1,Oil Change - Hand hundred now crime network.,2026,6,June
+MAINT0296,TRK027,2026-01-14,Engine Service,1.1,1306.3,1,264649,0,Engine Service - Hit late near.,2026,1,January
+MAINT0297,TRK021,2025-12-09,Transmission Repair,1.04,3208.47,7,651147,1,Transmission Repair - Quite budget window hour some fund.,2025,12,December
+MAINT0298,TRK025,2025-11-24,Electrical Repair,1.1,1298.52,3,826505,1,Electrical Repair - Sense current meeting matter and.,2025,11,November
+MAINT0299,TRK003,2026-04-23,Brake Replacement,0.87,538.92,1,326587,0,Brake Replacement - Require sound mind.,2026,4,April
+MAINT0300,TRK030,2025-10-06,Engine Service,0.76,1403.33,3,682369,0,Engine Service - Paper middle foreign.,2025,10,October
+MAINT0301,TRK009,2026-06-01,Full Service,0.9,1194.86,1,717559,0,Full Service - Five hotel pattern successful order medical.,2026,6,June
+MAINT0302,TRK034,2026-07-25,Cooling System,0.99,602.12,3,423385,1,Cooling System - Mother remember feel staff happy purpose.,2026,7,July
+MAINT0303,TRK008,2026-07-08,Tire Replacement,1.15,722.97,2,788439,1,Tire Replacement - On someone rise read ago.,2026,7,July
+MAINT0304,TRK023,2026-08-09,Electrical Repair,0.86,639.13,1,389429,1,Electrical Repair - Enter pretty will official dinner anything.,2026,8,August
+MAINT0305,TRK020,2026-04-01,Oil Change,1.24,236.76,1,590317,1,Oil Change - Color pick people subject challenge quite.,2026,4,April
+MAINT0306,TRK005,2026-02-01,Brake Replacement,1.25,979.85,1,441949,1,Brake Replacement - Occur red course.,2026,2,February
+MAINT0307,TRK013,2025-12-05,Tire Replacement,0.95,440.82,1,492228,1,Tire Replacement - Finish charge real improve simple.,2025,12,December
+MAINT0308,TRK029,2026-03-23,Brake Replacement,0.72,654.96,3,644915,1,Brake Replacement - Their save artist catch debate foot.,2026,3,March
+MAINT0309,TRK008,2026-03-25,Tire Replacement,1.12,659.73,1,780282,1,Tire Replacement - Moment finish community treatment garden great.,2026,3,March
+MAINT0310,TRK034,2025-10-16,Transmission Repair,0.98,2514.26,3,463542,1,Transmission Repair - Particular court east newspaper.,2025,10,October
+MAINT0311,TRK010,2026-06-12,Brake Replacement,1.14,983.7,1,709624,1,Brake Replacement - Walk word side relate.,2026,6,June
+MAINT0312,TRK023,2025-11-09,Oil Change,0.89,151.58,1,392864,1,Oil Change - First give value somebody event business.,2025,11,November
+MAINT0313,TRK023,2026-06-27,Tire Replacement,1.15,501.56,1,385454,1,Tire Replacement - Here woman stand west source fact.,2026,6,June
+MAINT0314,TRK018,2026-09-07,Suspension Repair,1.1,1750.52,3,818037,1,Suspension Repair - Western bad under pretty.,2026,9,September
+MAINT0315,TRK025,2026-09-07,Electrical Repair,0.99,1179.34,3,831588,1,Electrical Repair - Degree still even no even body.,2026,9,September
+MAINT0316,TRK028,2025-11-10,Oil Change,0.84,177.25,1,547033,1,Oil Change - Dream anything toward difficult do beyond.,2025,11,November
+MAINT0317,TRK023,2025-12-04,Engine Service,0.69,952.56,4,385395,0,Engine Service - Response beyond side accept nearly.,2025,12,December
+MAINT0318,TRK021,2026-02-13,Tire Replacement,0.69,369.16,1,633015,1,Tire Replacement - Imagine various there local.,2026,2,February
+MAINT0319,TRK023,2026-04-20,Tire Replacement,1.1,467.75,1,400699,0,Tire Replacement - Sense expert experience arrive.,2026,4,April
+MAINT0320,TRK014,2025-11-13,Brake Replacement,1.02,801.66,1,464991,0,Brake Replacement - Present discussion school.,2025,11,November
+MAINT0321,TRK002,2025-12-27,Suspension Repair,0.98,1630.37,4,754247,1,Suspension Repair - Tree company think.,2025,12,December
+MAINT0322,TRK006,2026-08-02,Electrical Repair,0.85,864.33,1,668499,1,Electrical Repair - Value already structure small.,2026,8,August
+MAINT0323,TRK023,2026-04-23,Tire Replacement,0.87,358.18,1,398153,0,Tire Replacement - View while unit theory.,2026,4,April
+MAINT0324,TRK033,2025-11-20,Suspension Repair,1.09,1761.36,2,754025,1,Suspension Repair - Fear owner up.,2025,11,November
+MAINT0325,TRK001,2026-05-25,Tire Replacement,0.94,674.65,1,1042891,1,Tire Replacement - Expect writer myself management voice.,2026,5,May
+MAINT0326,TRK020,2025-12-02,Suspension Repair,0.89,1286.67,4,609650,1,Suspension Repair - Life cover both class learn either.,2025,12,December
+MAINT0327,TRK009,2026-06-16,Cooling System,0.72,528.24,3,710645,1,Cooling System - Add front far purpose.,2026,6,June
+MAINT0328,TRK021,2025-12-19,Electrical Repair,0.96,982.02,1,649925,1,Electrical Repair - Compare task today still.,2025,12,December
+MAINT0329,TRK028,2025-11-21,Brake Replacement,0.77,599.36,1,541819,0,Brake Replacement - Foreign husband believe word local very.,2025,11,November
+MAINT0330,TRK027,2026-09-09,Brake Replacement,1.06,716.07,1,293631,1,Brake Replacement - End dog send.,2026,9,September
+MAINT0331,TRK027,2026-01-07,Brake Replacement,1.27,809.58,1,285119,0,Brake Replacement - Few reveal activity president realize.,2026,1,January
+MAINT0332,TRK029,2026-04-27,Electrical Repair,0.65,630.63,1,628497,1,Electrical Repair - Property let civil.,2026,4,April
+MAINT0333,TRK002,2025-10-31,Engine Service,1.16,2271.7,3,737935,0,Engine Service - Type thousand show real police wait.,2025,10,October
+MAINT0334,TRK019,2026-04-30,Engine Service,1.27,1951.59,1,386890,1,Engine Service - Pass despite card check security.,2026,4,April
+MAINT0335,TRK009,2025-10-08,Suspension Repair,1.1,1622.4,4,718999,1,Suspension Repair - Health reduce tree serious soon stay.,2025,10,October
+MAINT0336,TRK033,2026-07-22,Engine Service,0.99,2143.33,1,756216,1,Engine Service - Quite other skin moment.,2026,7,July
+MAINT0337,TRK029,2026-01-29,Engine Service,1.11,1921.28,3,629467,1,Engine Service - Region back nor article natural measure.,2026,1,January
+MAINT0338,TRK004,2026-08-29,Engine Service,1.38,2129.07,1,447128,1,Engine Service - Mr clearly take kind quite response.,2026,8,August
+MAINT0339,TRK009,2025-11-24,Full Service,0.86,1086.82,1,719695,1,Full Service - Before member speak law message lead.,2025,11,November
+MAINT0340,TRK017,2026-07-19,Full Service,1.06,813.57,1,288940,0,Full Service - Next pull final.,2026,7,July
+MAINT0341,TRK034,2026-08-31,Tire Replacement,0.65,316.13,1,435656,0,Tire Replacement - How staff second.,2026,8,August
+MAINT0342,TRK004,2025-12-05,Suspension Repair,1.07,1507.96,3,453244,0,Suspension Repair - Authority interest red must art thus.,2025,12,December
+MAINT0343,TRK021,2026-07-15,Tire Replacement,1.0,541.35,1,659088,1,Tire Replacement - All important shoulder she within position.,2026,7,July
+MAINT0344,TRK011,2026-06-05,Suspension Repair,0.78,1265.29,4,1001781,1,Suspension Repair - Hear through large true help.,2026,6,June
+MAINT0345,TRK025,2026-01-23,Oil Change,0.96,233.69,1,810111,0,Oil Change - Radio product much.,2026,1,January
+MAINT0346,TRK025,2025-11-11,Suspension Repair,0.85,1562.93,1,818094,1,Suspension Repair - Budget year hotel camera without.,2025,11,November
+MAINT0347,TRK009,2026-06-19,Brake Replacement,1.18,1010.2,1,718126,0,Brake Replacement - Series without leg.,2026,6,June
+MAINT0348,TRK029,2026-02-13,Brake Replacement,0.77,745.88,1,654042,1,Brake Replacement - Interest here discover leave choice country.,2026,2,February
+MAINT0349,TRK003,2025-11-11,Full Service,1.13,1085.04,3,320542,0,Full Service - Allow produce past.,2025,11,November
+MAINT0350,TRK030,2026-03-28,Electrical Repair,0.83,835.95,1,701974,1,Electrical Repair - Drive attack order.,2026,3,March

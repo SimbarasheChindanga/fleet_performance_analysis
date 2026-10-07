@@ -1,0 +1,46 @@
+driver_id,first_name,last_name,full_name,license_type,experience_years,hire_date,contact,rating,status,driver_skill_score
+DRV001,Danielle,Johnson,Danielle Johnson,Class 3,7,2019-04-07,+263 77 921 5065,4.1,Available,72.5
+DRV002,Joshua,Walker,Joshua Walker,Class 3,27,1999-03-18,+263 71 979 8711,4.4,Available,70.9
+DRV003,Jill,Rhodes,Jill Rhodes,Class 4,28,1998-04-03,+263 75 940 4728,4.0,Available,54.3
+DRV004,Patricia,Miller,Patricia Miller,Class 1,23,2003-04-13,+263 75 985 2137,4.3,On Leave,77.9
+DRV005,Robert,Johnson,Robert Johnson,Class 2,10,2016-01-08,+263 77 795 9785,4.0,Available,57.6
+DRV006,Jeffery,Wagner,Jeffery Wagner,Class 1,2,2024-05-12,+263 73 694 5349,4.2,Available,68.6
+DRV007,Anthony,Gonzalez,Anthony Gonzalez,Class 2,21,2005-04-20,+263 77 720 9379,4.6,Available,75.3
+DRV008,Debra,Gardner,Debra Gardner,Class 2,30,1996-05-22,+263 71 825 8144,4.1,Available,72.1
+DRV009,Jeffrey,Lawrence,Jeffrey Lawrence,Class 2,27,1998-10-21,+263 74 472 8066,4.4,Available,77.2
+DRV010,Lisa,Smith,Lisa Smith,Class 4,23,2002-11-13,+263 76 779 3041,4.8,On Trip,91.3
+DRV011,Linda,Wolfe,Linda Wolfe,Class 2,11,2014-10-19,+263 77 434 7592,4.6,On Trip,79.3
+DRV012,Matthew,Moore,Matthew Moore,Class 1,19,2007-02-24,+263 77 793 3851,3.9,On Trip,60.7
+DRV013,Susan,Rogers,Susan Rogers,Class 2,11,2015-09-25,+263 75 393 4443,4.0,Available,63.9
+DRV014,Christopher,Davis,Christopher Davis,Class 3,20,2006-04-16,+263 78 552 8244,4.1,On Trip,58.5
+DRV015,Melanie,Munoz,Melanie Munoz,Class 2,18,2008-07-02,+263 72 390 9445,4.0,On Trip,72.3
+DRV016,Lindsay,Blair,Lindsay Blair,Class 2,21,2005-05-30,+263 75 330 4262,4.1,Available,62.8
+DRV017,Amanda,Dudley,Amanda Dudley,Class 1,3,2023-01-23,+263 72 566 7790,4.9,On Trip,85.1
+DRV018,Nicholas,Arnold,Nicholas Arnold,Class 1,20,2005-10-06,+263 77 606 7547,4.8,Available,98.0
+DRV019,Maria,Montgomery,Maria Montgomery,Class 3,22,2004-08-04,+263 77 324 3881,3.7,On Trip,63.1
+DRV020,Michelle,Ray,Michelle Ray,Class 2,24,2002-09-03,+263 79 355 2988,4.2,Available,78.2
+DRV021,Janet,Williams,Janet Williams,Class 2,27,1999-01-01,+263 79 709 6198,4.1,On Leave,70.0
+DRV022,Jeremy,Roberts,Jeremy Roberts,Class 2,30,1996-01-15,+263 77 950 9976,4.5,Available,73.3
+DRV023,Christopher,Hall,Christopher Hall,Class 3,7,2019-01-24,+263 78 365 5050,4.3,On Trip,76.9
+DRV024,Craig,Ramirez,Craig Ramirez,Class 3,10,2016-01-02,+263 78 741 4919,3.8,Available,62.6
+DRV025,Cynthia,Diaz,Cynthia Diaz,Class 3,4,2022-05-26,+263 75 443 6238,4.2,On Trip,69.2
+DRV026,Mitchell,Clark,Mitchell Clark,Class 1,4,2022-05-28,+263 77 810 3503,4.7,On Trip,96.2
+DRV027,Joseph,Zuniga,Joseph Zuniga,Class 2,4,2022-04-07,+263 79 577 7812,4.4,Available,86.8
+DRV028,Deborah,Lynch,Deborah Lynch,Class 2,28,1997-12-04,+263 71 977 7232,3.8,Available,60.8
+DRV029,George,Daniel,George Daniel,Class 1,13,2013-03-10,+263 77 651 9947,4.5,On Trip,66.3
+DRV030,Frank,Gray,Frank Gray,Class 1,30,1996-06-09,+263 75 546 8956,4.3,Available,65.1
+DRV031,Veronica,Bowman,Veronica Bowman,Class 3,12,2014-03-02,+263 73 960 8657,4.3,On Leave,64.2
+DRV032,Angela,Cohen,Angela Cohen,Class 2,21,2005-03-10,+263 71 185 8022,4.4,Available,79.6
+DRV033,Megan,Parsons,Megan Parsons,Class 1,16,2010-05-16,+263 77 435 4467,4.2,Available,74.5
+DRV034,Jeremy,Johnson,Jeremy Johnson,Class 3,12,2014-03-15,+263 75 870 7906,4.3,Available,80.4
+DRV035,Leslie,Adams,Leslie Adams,Class 2,4,2021-12-21,+263 71 458 4673,3.8,On Trip,60.3
+DRV036,Jason,Hahn,Jason Hahn,Class 4,26,2000-09-08,+263 71 353 4266,4.6,On Trip,77.1
+DRV037,Nancy,Edwards,Nancy Edwards,Class 1,21,2005-07-25,+263 78 785 2874,4.3,Available,76.9
+DRV038,Diana,Foster,Diana Foster,Class 2,8,2018-05-16,+263 76 271 2876,4.6,On Trip,78.4
+DRV039,Robin,Ellis,Robin Ellis,Class 4,7,2019-07-31,+263 71 419 7149,4.3,Available,77.6
+DRV040,Joseph,Wright,Joseph Wright,Class 1,24,2001-11-29,+263 74 204 5941,4.6,On Trip,88.3
+DRV041,Anna,Baker,Anna Baker,Class 3,21,2004-12-12,+263 71 455 9728,4.7,Available,93.4
+DRV042,Brenda,Hurst,Brenda Hurst,Class 1,13,2012-10-29,+263 76 112 7882,3.8,On Trip,60.3
+DRV043,Reginald,Robinson,Reginald Robinson,Class 2,5,2021-03-22,+263 78 824 3506,5.0,Available,94.8
+DRV044,Whitney,Hicks,Whitney Hicks,Class 2,25,2000-10-30,+263 75 730 9817,4.2,On Trip,72.8
+DRV045,Christopher,Williams,Christopher Williams,Class 2,16,2009-11-27,+263 75 430 5022,4.5,On Trip,92.5
