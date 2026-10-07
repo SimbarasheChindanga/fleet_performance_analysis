@@ -17,37 +17,32 @@ maintenance, downtime, drivers, routes, and operational risk.
 
 ------------------------------------------------------------------------
 
-## 👤 Project Author
+## 👤 Author
 
-**Simbarashe Chindanga**\
-**Role:** Transport Technology Specialist\
-**Focus:** Supply Chain Visibility, Data Analytics, Fleet Technology\
-**Location:** Zimbabwe 🇿🇼
+### **Simbarashe Chindanga**
+**Data Science & Transport Technology Specialist**
 
--   💼 **Portfolio / GitHub:**
-    [github.com/SimbarasheChindanga](https://github.com/SimbarasheChindanga)
--   🐙 **GitHub:**
-    [SimbarasheChindanga](https://github.com/SimbarasheChindanga)
--   📧 **Email:** <chindangasimbarashe02@gmail.com>
+Final-year **Data Science and Systems (HDSC)** student at the **University of Zimbabwe — Faculty of Science**, focused on applying data science and technology to the transport, trucking, logistics, and supply-chain industries.
 
-------------------------------------------------------------------------
+**Areas of Focus**
+- 🚛 Fleet Analytics & Transport Technology
+- 📊 Data Science & Business Intelligence
+- 🧠 Machine Learning & Predictive Analytics
+- 🗄️ SQL & Data Engineering
+- 📈 Power BI & Data Visualization
+- 🔗 Supply Chain & Logistics Analytics
 
-## 🎓 Credentials & Professional Profile
+**Education**
+- **University of Zimbabwe — Faculty of Science**
+- **BSc Data Science and Systems (HDSC)**
+- **Final-Year Student**
 
-**Education** - **University of Zimbabwe --- Faculty of Science** -
-**Data Science and Systems (HDSC)** - **Status:** Final-year student
+**Professional Links**
+- 💼 **GitHub:** [SimbarasheChindanga](https://github.com/SimbarasheChindanga)
+- 📧 **Email:** [chindangasimbarashe02@gmail.com](mailto:chindangasimbarashe02@gmail.com)
+- 🇿🇼 **Location:** Zimbabwe
 
-**Professional Profile** - **Role:** Transport Technology Specialist -
-**Specialisation:** Data Science, Fleet Analytics, Supply Chain
-Visibility, Transport Technology - **Technical Stack:** Python, SQL,
-Power BI, Machine Learning, Statistical Analysis - **Industry Focus:**
-Transport, Trucking, Logistics and Supply Chain Analytics
-
-**Professional Links** - **GitHub:**
-[SimbarasheChindanga](https://github.com/SimbarasheChindanga) -
-**Email:** <chindangasimbarashe02@gmail.com>
-
-------------------------------------------------------------------------
+---
 
 ## 📑 Table of Contents
 
